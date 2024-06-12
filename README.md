@@ -1,2 +1,2 @@
 # javascript
-This is a Demo for Java
+This is a Demo for Java.
